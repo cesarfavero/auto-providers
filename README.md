@@ -133,6 +133,6 @@ Fornece informações completas sobre:
 ---
 
 <div style="text-align: center; margin-top: 30px; opacity: 0.8;">
-  <p>Desenvolvido pela equipe Fortuna88 🚀</p>
-  <p style="font-size: 0.8rem;">Documentação gerada em 2023</p>
+  <p>Desenvolvido por @cesaremuszka 🚀</p>
+  <p style="font-size: 0.8rem;">Documentação gerada em 2025</p>
 </div>
